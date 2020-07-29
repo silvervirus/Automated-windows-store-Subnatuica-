@@ -1,0 +1,6 @@
+C:\Users\pred1\source\repos\Automation(subnautica)\Automation(subnautica)\obj\Debug\Automation(subnautica).csproj.CoreCompileInputs.cache
+C:\Users\pred1\source\repos\Automation(subnautica)\Automation(subnautica)\bin\Debug\Automation(subnautica).exe
+C:\Users\pred1\source\repos\Automation(subnautica)\Automation(subnautica)\bin\Debug\Automation(subnautica).pdb
+C:\Users\pred1\source\repos\Automation(subnautica)\Automation(subnautica)\obj\Debug\Automation(subnautica).exe
+C:\Users\pred1\source\repos\Automation(subnautica)\Automation(subnautica)\obj\Debug\Automation(subnautica).pdb
+C:\Users\pred1\source\repos\Automation(subnautica)\Automation(subnautica)\obj\Debug\Automation(subnautica).csprojAssemblyReference.cache
